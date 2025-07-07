@@ -1,6 +1,6 @@
 # 💻 Innovatech – Laptop Service & E-Commerce Platform
 
-![Innovatech Banner](https://via.placeholder.com/1000x250?text=Innovatech+Platform)
+![Innovatech Banner](innovatech1.webp)
 
 Welcome to **Innovatech**, a full-featured web platform for managing laptop sales, maintenance services, and accessories. Designed with usability, functionality, and smooth admin operations in mind, Innovatech is your one-stop digital solution for modern laptop businesses.
 
